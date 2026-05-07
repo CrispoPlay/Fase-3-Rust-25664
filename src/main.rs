@@ -28,7 +28,7 @@ fn main() {
         let opcion = opcion.trim();
 
         if opcion == "6" {
-            println!("Adiós 👋");
+            println!("Gracias por usar la aplicación");
             break;
         }
 
